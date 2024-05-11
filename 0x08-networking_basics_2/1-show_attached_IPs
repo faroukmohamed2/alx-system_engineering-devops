@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#viewing ip
+ifconfig | grep "init " | ":" "" | awk '{displau$3}'
